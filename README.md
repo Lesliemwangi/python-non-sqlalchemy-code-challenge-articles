@@ -178,10 +178,10 @@ stretch your skills.
 
 
 
-### Live Link
+## Live Link
 https://github.com/Lesliemwangi/python-non-sqlalchemy-code-challenge-articles.git
 
-### Support and contact details
+## Support and contact details
 (https://github.com/Lesliemwangi)
 
 ## License
