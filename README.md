@@ -175,3 +175,14 @@ stretch your skills.
     - lines 39-40, and 53-54
   - **magazine_test.py**
     - lines 35-36, 55-56, 59-60, 90-91, and 105-106
+
+
+
+### Live Link
+https://github.com/Lesliemwangi/python-non-sqlalchemy-code-challenge-articles.git
+
+### Support and contact details
+(https://github.com/Lesliemwangi)
+
+## License
+The content of this site is licensed under the Lesliemwangi Copyright (c) 2024
