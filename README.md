@@ -1,8 +1,6 @@
 # Phase 3 Code Challenge: Articles - without SQLAlchemy
 
-
 #### Date, 2024/05/26
-
 
 #### BY LESLIE WAMBUI MWANGI
 
